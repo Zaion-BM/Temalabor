@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name temalab_comparator)(type KiCad)(uri ${KIPRJMOD}/temalab_comparator.pretty)(options "")(descr ""))
-)
