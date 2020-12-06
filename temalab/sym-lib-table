@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name temalab_comparator_parts)(type Legacy)(uri ${KIPRJMOD}/temalab_comparator_parts.lib)(options "")(descr ""))
+)
